@@ -1,0 +1,14 @@
+C:\Users\duong\Desktop\ChuyenDePM\ChuyenDePM\bin\Debug\ChuyenDePM.exe.config
+C:\Users\duong\Desktop\ChuyenDePM\ChuyenDePM\bin\Debug\ChuyenDePM.exe
+C:\Users\duong\Desktop\ChuyenDePM\ChuyenDePM\bin\Debug\ChuyenDePM.pdb
+C:\Users\duong\Desktop\ChuyenDePM\ChuyenDePM\obj\Debug\ChuyenDePM.csprojResolveAssemblyReference.cache
+C:\Users\duong\Desktop\ChuyenDePM\ChuyenDePM\obj\Debug\ChuyenDePM.View.CreateAccount.resources
+C:\Users\duong\Desktop\ChuyenDePM\ChuyenDePM\obj\Debug\ChuyenDePM.View.ImportAndExportBill.resources
+C:\Users\duong\Desktop\ChuyenDePM\ChuyenDePM\obj\Debug\ChuyenDePM.InputListStaff.resources
+C:\Users\duong\Desktop\ChuyenDePM\ChuyenDePM\obj\Debug\ChuyenDePM.MaterialList.resources
+C:\Users\duong\Desktop\ChuyenDePM\ChuyenDePM\obj\Debug\ChuyenDePM.Properties.Resources.resources
+C:\Users\duong\Desktop\ChuyenDePM\ChuyenDePM\obj\Debug\ChuyenDePM.Form1.resources
+C:\Users\duong\Desktop\ChuyenDePM\ChuyenDePM\obj\Debug\ChuyenDePM.View.Home.resources
+C:\Users\duong\Desktop\ChuyenDePM\ChuyenDePM\obj\Debug\ChuyenDePM.csproj.GenerateResource.Cache
+C:\Users\duong\Desktop\ChuyenDePM\ChuyenDePM\obj\Debug\ChuyenDePM.exe
+C:\Users\duong\Desktop\ChuyenDePM\ChuyenDePM\obj\Debug\ChuyenDePM.pdb
